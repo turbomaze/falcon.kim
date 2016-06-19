@@ -55,3 +55,26 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+.parallax1 {
+  background: linear-gradient(rgba(249,255,255,0.8), rgba(249,255,255,0.8)), url('../background1.jpg');
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.parallax2 {
+  background: linear-gradient(rgba(249,255,255,0.8), rgba(249,255,255,0.8)), url('../background2.jpg');
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg2-text {
+  color: black;
+}
+
+.parallax3 {
+  background: linear-gradient(rgba(249,255,255,0.8), rgba(249,255,255,0.8));
+  min-height: 100%;
+}
